@@ -50,7 +50,8 @@ Response
 
 1. It should support pagination. 
 
-2. It should should support sorting on the basis of tags
+2. It should should support sorting on the basis of tags.
+
    Sending a tag name as a sorting parameter in the request should reflect a list of articles with those articles on the top which contains the given tag
    
    /api/articles?sort-tag=technical
